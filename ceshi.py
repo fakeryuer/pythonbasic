@@ -1,3 +1,5 @@
-import request
+'''
+    快速插入库
+    ALT+ENTER
+'''
 
-'''this is a push test'''
